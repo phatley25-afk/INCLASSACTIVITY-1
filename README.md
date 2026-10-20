@@ -2,4 +2,4 @@
 
 this is activity 1 
 author- Peyton Hatley 
-counter = 0
+counter = 1
